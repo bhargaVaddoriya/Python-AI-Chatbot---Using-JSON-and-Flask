@@ -1,0 +1,97 @@
+{
+    "questions": [
+        {
+            "question": "hi",
+            "answers": ["hey\n", 
+            "hello\n", 
+            "hi there\n"]
+        },
+        {
+            "question":"Rishikes",
+            "answers":["Rishikes is very beautiful place"]
+        },  
+        {
+            "question": "How can I prevent the flu?",
+            "answers": ["Get vaccinated", "Wash your hands regularly", "Avoid close contact with sick people"]
+        },
+        {
+            "question": "What are the symptoms of COVID-19?",
+            "answers": ["Fever",
+            "Cough", 
+            "Shortness of breath",
+             "Fatigue"]
+        },
+        {
+            "question": "What is diabetes?",
+            "answers": ["Diabetes is a chronic condition that affects the way the body processes blood sugar (glucose).", "Type 1 diabetes is an autoimmune disease where the body attacks insulin-producing cells.", "Type 2 diabetes is a condition where the body becomes resistant to insulin or doesn't produce enough insulin."]
+        },
+        {
+            "question": "How is cancer treated?",
+            "answers": ["Treatment for cancer depends on the type, stage, and location of the cancer.", "Common treatments include surgery, chemotherapy, radiation therapy, immunotherapy, and targeted therapy."]
+        },
+        {
+            "question": "What are the risk factors for heart disease?",
+            "answers": ["High blood pressure", "High cholesterol", "Smoking", "Diabetes", "Obesity", "Family history of heart disease"]
+        },
+        {
+            "question": "How can I improve my mental health?",
+            "answers": ["Exercise regularly", "Get enough sleep", "Eat a balanced diet", "Practice mindfulness and relaxation techniques", "Seek professional help if needed"]
+        },
+        {
+            "question": "What causes allergies?",
+            "answers": ["Allergies occur when the immune system overreacts to a substance (allergen) that is usually harmless.", "Common allergens include pollen, dust mites, pet dander, and certain foods."]
+        },
+        {
+            "question": "How do vaccines work?",
+            "answers": ["Vaccines work by stimulating the immune system to produce an immune response against a specific pathogen, without causing the disease itself.", "This immune response provides protection against future infections with the pathogen."]
+        },
+        {
+            "question": "What are the benefits of regular exercise?",
+            "answers": ["Regular exercise can improve cardiovascular health, strengthen muscles and bones, help maintain a healthy weight, reduce the risk of chronic diseases such as diabetes and heart disease, and improve mental well-being."]
+        },
+        {
+            "question": "What are the symptoms of the common cold?",
+            "answers": ["Runny or stuffy nose", "Sore throat", "Coughing", "Sneezing", "Fatigue", "Headache"]
+        },
+        {
+            "question": "How can I reduce stress?",
+            "answers": ["Practice relaxation techniques such as deep breathing, meditation, or yoga", "Exercise regularly", "Get enough sleep", "Maintain a healthy diet", "Set realistic goals and prioritize tasks", "Take breaks and engage in enjoyable activities"]
+        },
+        {
+            "question": "What is Alzheimer's disease?",
+            "answers": ["Alzheimer's disease is a progressive neurological disorder that affects memory, thinking, and behavior.", "It is the most common cause of dementia in older adults.", "Symptoms include memory loss, confusion, difficulty with language and communication, and changes in mood and behavior."]
+        },
+        {
+            "question": "What are the benefits of a Mediterranean diet?",
+            "answers": ["The Mediterranean diet is associated with numerous health benefits, including reduced risk of heart disease, stroke, and certain cancers.", "It emphasizes whole grains, fruits, vegetables, fish, nuts, and olive oil, while limiting red meat and processed foods."]
+        },
+        {
+            "question": "What are the signs of dehydration?",
+            "answers": ["Thirst", "Dry mouth", "Dark yellow urine", "Fatigue", "Dizziness", "Headache", "Decreased urine output"]
+        },
+        {
+            "question": "How can I improve my sleep quality?",
+            "answers": ["Establish a regular sleep schedule", "Create a relaxing bedtime routine", "Make your bedroom conducive to sleep (dark, quiet, and cool)", "Limit exposure to screens before bedtime", "Avoid caffeine and heavy meals before bedtime"]
+        },
+        {
+            "question": "What are the benefits of drinking water?",
+            "answers": ["Drinking water helps maintain the balance of body fluids", "It can help control calories", "It helps energize muscles", "It keeps skin looking good", "It helps maintain kidney function", "It helps maintain normal bowel function"]
+        },
+        {
+            "question": "What is the importance of sunscreen?",
+            "answers": ["Sunscreen protects the skin from harmful UV rays", "It helps prevent sunburn, premature aging, and skin cancer", "It should be applied generously and reapplied frequently, especially when outdoors for extended periods"]
+        },
+        {
+            "question": "What are the benefits of quitting smoking?",
+            "answers": ["Lower risk of lung cancer, heart disease, and other smoking-related illnesses", "Improved lung function and circulation", "Better sense of taste and smell", "Whiter teeth and fresher breath", "Savings from not buying cigarettes"]
+        },
+        {
+            "question": "What is the importance of regular health check-ups?",
+            "answers": ["Regular health check-ups help detect potential health problems early", "They allow for preventive measures to be taken to maintain good health", "They provide an opportunity to discuss any concerns with a healthcare professional"]
+        },
+        {
+            "question": "How can I boost my immune system?",
+            "answers": ["Eat a balanced diet rich in fruits, vegetables, and whole grains", "Get regular exercise", "Get enough sleep", "Manage stress levels", "Avoid smoking and excessive alcohol consumption", "Practice good hygiene, such as washing hands regularly"]
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "questions": [
+        {
+            "question":"hi",
+            "answers":["Hello , Welcome to Our Chatbot We guide you best tourist pace in india.write only summer,winter,and monsoon"]
+        },  {
+            "question":"rishikes",
+            "answers":["Rishikes is very beautiful place"]
+        },  
+        {
+            "question":"monsoon",
+            "answers":["kerla and ooty is best place for monsoon"]
+        },
+        {
+            "question":"Summer",
+            "answers":["Shimala and mnali ,haridwar , rishikesh that are some place you can explore more. "]
+
+        },
+        {
+            "question":"winter",
+            "answers":["Rishikesh, Rajsthan ,kachh"]
+        },
+        {
+            "question": "Wagah Border",
+            "answers": ["Wagah Border is a border crossing between India and Pakistan near Amritsar, Punjab. The daily Wagah Border ceremony is a military parade showcasing the border closing ceremony between the two nations."]
+        },
+        {
+            "question": "Durgiana Temple",
+            "answers": ["Durgiana Temple is a prominent Hindu temple in Amritsar, Punjab, dedicated to Goddess Durga. It features intricate architecture, religious rituals, and is often called the 'Silver Temple'."]
+        },
+        {
+            "question": "Fatehgarh Sahib",
+            "answers": ["Fatehgarh Sahib is a historic town in Punjab, known for its gurdwaras and historical significance related to Sikh history and martyrdom. It is a pilgrimage site for Sikhs."]
+        },
+        {
+            "question": "Sheesh Mahal",
+            "answers": ["Sheesh Mahal, also known as the Palace of Mirrors, is a beautiful palace in Patiala, Punjab, known for its intricate mirror work, frescoes, and royal architecture. It's a blend of art and heritage."]
+        },
+        {
+            "question": "Rock Garden of Chandigarh",
+            "answers": ["Rock Garden of Chandigarh is a unique garden in Chandigarh, Punjab, created by artist Nek Chand using recycled materials. It features sculptures, waterfalls, and artistic displays, attracting visitors from around the world."]
+        },
+        {
+            "question": "Sukhna Lake",
+            "answers": ["Sukhna Lake is a serene artificial lake in Chandigarh, Punjab, known for its scenic beauty, boating facilities, and jogging tracks. It's a popular spot for relaxation and recreational activities."]
+        },
+        {
+            "question": "Pinjore Gardens",
+            "answers": ["Pinjore Gardens, also known as Yadavindra Gardens, is a historic Mughal-style garden in Pinjore, Haryana. It features terraced lawns, fountains, and scenic vistas, making it a popular tourist attraction."]
+        },
+        {
+            "question": "Sultanpur National Park",
+            "answers": ["Sultanpur National Park is a bird sanctuary in Haryana, known for its rich avian diversity, migratory birds, and wetland habitats. It's a paradise for birdwatchers and nature enthusiasts."]
+        },
+        {
+            "question": "Kingdom of Dreams",
+            "answers": ["Kingdom of Dreams is a unique entertainment and cultural complex in Gurugram, Haryana, featuring live shows, theatrical performances, dining options, and immersive experiences showcasing India's art and heritage."]
+        },
+        {
+            "question": "Surajkund Mela",
+            "answers": ["Surajkund Mela is a vibrant cultural fair held near Delhi in Haryana, showcasing traditional crafts, art, music, and cultural performances from across India. It's a celebration of India's diverse heritage."]
+        },
+        {
+            "question": "Damdama Lake",
+            "answers": ["Damdama Lake is a scenic lake near Gurugram, Haryana, offering boating, picnics, and adventure activities like rock climbing, hot air ballooning, and zorbing. It's a popular weekend getaway."]
+        },
+        {
+            "question": "Karna Lake",
+            "answers": ["Karna Lake is a tranquil lake near Karnal, Haryana, surrounded by lush greenery and offering boating, fishing, and nature walks. It's a peaceful retreat for nature lovers and picnickers."]
+        },
+        {
+            "question": "Brahma Sarovar",
+            "answers": ["Brahma Sarovar is a sacred water tank in Kurukshetra, Haryana, mentioned in Hindu scriptures. It is believed to have spiritual significance and is a pilgrimage site during solar eclipses."]
+        },
+
+        {
+            "question": "Tilyar Lake",
+            "answers": ["Tilyar Lake is a scenic lake in Rohtak, Haryana, known for its picturesque surroundings, boating facilities, and recreational activities. It's a popular spot for day trips and family outings."]
+        },
+        {
+            "question": "Rani Ki Vav",
+            "answers": ["Rani Ki Vav, also known as the Queen's Stepwell, is a UNESCO World Heritage Site in Gujarat. It is a magnificent stepwell featuring intricate carvings, sculptures, and a testament to ancient Indian architecture."]
+        },
+        {
+            "question": "Hampi",
+            "answers": ["Hampi is a UNESCO World Heritage Site in Karnataka, known for its ancient temples, ruins, and architectural marvels from the Vijayanagara Empire. It's a treasure trove of history and culture."]
+        },
+        {
+            "question": "Gokarna",
+            "answers": ["Gokarna is a coastal town in Karnataka, known for its pristine beaches, sacred temples, and laid-back vibe. It's a popular destination for beach lovers, pilgrims, and backpackers."]
+        },
+        {
+            "question": "Mysore Palace",
+            "answers": ["Mysore Palace, also known as Amba Vilas Palace, is a grand royal palace in Mysore, Karnataka. It showcases Indo-Saracenic architecture, royal artifacts, and hosts the famous Mysore Dasara festival."]
+        },
+        {
+            "question": "Coorg",
+            "answers": ["Coorg, also known as Kodagu, is a scenic hill station in Karnataka, known for its coffee plantations, misty hills, and lush forests. It's a popular destination for nature lovers and adventure enthusiasts."]
+        },
+        {
+            "question": "Hampi",
+            "answers": ["Hampi is a UNESCO World Heritage Site in Karnataka, known for its ancient temples, ruins, and architectural marvels from the Vijayanagara Empire. It's a treasure trove of history and culture."]
+        },
+        {
+            "question": "Udupi",
+            "answers": ["Udupi is a coastal town in Karnataka, known for its temples, beaches, and delicious Udupi cuisine. It's a cultural and culinary hub in the region."]
+        },
+        {
+            "question": "Kudremukh",
+            "answers": ["Kudremukh is a picturesque hill station in Karnataka, known for its lush greenery, scenic trails, and biodiversity. It's a paradise for trekkers and nature enthusiasts."]
+        },
+        {
+            "question": "Badami",
+            "answers": ["Badami is a historic town in Karnataka, known for its rock-cut temples, ancient caves, and rich heritage dating back to the Chalukya dynasty. It's a heritage destination for history buffs."]
+        },
+        {
+            "question": "Gomateshwara Statue",
+            "answers": ["Gomateshwara Statue, also known as Bahubali Statue, is a massive monolithic statue in Shravanabelagola, Karnataka. It is a symbol of Jainism and a major pilgrimage site."]
+        },
+        {
+            "question": "Murudeshwar",
+            "answers": ["Murudeshwar is a coastal town in Karnataka, known for its Murudeshwar Temple, beach, and the towering Lord Shiva statue. It's a popular pilgrimage and beach destination."]
+        },
+        {
+            "question": "Bandipur National Park",
+            "answers": ["Bandipur National Park is a wildlife sanctuary in Karnataka, known for its tiger population, elephant herds, and diverse flora and fauna. It offers safari experiences and is a haven for nature lovers."]
+        },
+        {
+            "question": "Chamundi Hill",
+            "answers": ["Chamundi Hill is a sacred hill in Mysore, Karnataka, crowned by the Chamundeshwari Temple. It offers panoramic views of Mysore city and is a popular pilgrimage and tourist destination."]
+        },
+        {
+            "question": "Kumarakom",
+            "answers": ["Kumarakom is a scenic village in Kerala, known for its backwaters, bird sanctuary, and serene beauty. It's a popular destination for houseboat cruises, nature walks, and birdwatching."]
+        },
+        {
+            "question": "Alleppey (Alappuzha)",
+            "answers": ["Alleppey, also known as Alappuzha, is a picturesque town in Kerala, famous for its backwaters, houseboat cruises, and lush landscapes. It's a must-visit destination for nature lovers and tranquility seekers."]
+        },
+        {
+            "question": "Kochi (Cochin)",
+            "answers": ["Kochi, also known as Cochin, is a vibrant port city in Kerala, known for its colonial architecture, cultural blend, and scenic waterfront. It's a melting pot of history, art, and commerce."]
+        },
+        {
+            "question":"kacch",
+            "answers":["kacch is famous for white dessert also we can said kacch nhi dekha to kuch nhi dekha."]
+        }
+	
+    ]
+}
+
+
