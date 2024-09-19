@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        #chat {
+            width: 80%;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+
+        .user-message {
+            background-color: #4CAF50;
+            color: white;
+            margin-bottom: 10px;
+            padding: 10px 15px;
+            border-radius: 20px;
+            float: right;
+            clear: both;
+        }
+
+        .bot-message {
+            background-color: #008CBA;
+            color: white;
+            margin-bottom: 10px;
+            padding: 10px 15px;
+            border-radius: 20px;
+            float: left;
+            clear: both;
+        }
+
+        input[type="text"] {
+            width: calc(80% - 70px);
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            font-size: 16px;
+            margin-bottom: 20px;
+            margin-left: 100px;
+        }
+
+        button[type="submit"] {
+            padding: 10px 20px;
+            border: none;
+            background-color: #008CBA;
+            color: white;
+            font-size: 16px;
+            border-radius: 20px;
+            cursor: pointer;
+        }
+
+        button[type="submit"]:hover {
+            background-color: #004977;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat">
+        <div class="bot-message">Welcome to the Chatbot!</div>
+    </div>
+    <form id="message-form">
+        <input type="text" id="message" autocomplete="off" placeholder="Type your message here...">
+        <button type="submit">Send</button>
+    </form>
+    <script>
+        document.getElementById("message-form").addEventListener("submit", function(event) {
+            event.preventDefault();
+            let message = document.getElementById("message").value;
+            document.getElementById("message").value = "";
+            sendMessage(message);
+        });
+
+        function sendMessage(message) {
+            displayMessage("user", message);
+            fetch('/chat', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    message: message
+                })
+            })
+            .then(response => response.json())
+            .then(data => {
+                displayMessage("bot", data.response);
+            });
+        }
+
+        function displayMessage(sender, message) {
+            let chatDiv = document.getElementById("chat");
+            let messageDiv = document.createElement("div");
+            messageDiv.textContent = message;
+            messageDiv.className = (sender === "user") ? "user-message" : "bot-message";
+            chatDiv.appendChild(messageDiv);
+            chatDiv.scrollTop = chatDiv.scrollHeight;
+        }
+    </script>
+</body>
+</html>
